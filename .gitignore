@@ -1,0 +1,8 @@
+# Generated pilot and visual-debug outputs
+pilot_output/
+pilot_output_v2/
+debug/
+
+# Python cache
+__pycache__/
+*.py[cod]
